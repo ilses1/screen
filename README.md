@@ -4,7 +4,6 @@
 
 ## 预览
 
-[https://ylzon.github.io/app-switcher-dashboard/](https://ylzon.github.io/app-switcher-dashboard/)
 
 ![overview.png](docs/overview.png)
 
