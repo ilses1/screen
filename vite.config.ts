@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/app-switcher-dashboard/',
+  base: './',
   plugins: [react()],
   resolve: {
     // 配置路径别名
